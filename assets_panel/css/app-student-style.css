@@ -1,0 +1,18 @@
+@media screen and (max-width: 992px) {
+	.carousel-item {
+		height:170px !important;
+	}
+	.carousel-item img {
+		height:170px !important;
+	}
+}
+.app-logo-top-center {
+	position:absolute;
+	right:45%;
+	display:none !important;
+}
+@media screen and (max-width: 992px) {
+	.app-logo-top-center {
+		display:block !important;
+	}
+}
